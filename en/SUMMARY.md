@@ -28,7 +28,6 @@
 	* [Safety](safety/README.md)
 		* [LiPo Batteries](safety/lipo.md)
 	* [Choosing a Ground Station](choosing_a_ground_station/README.md)
-	* [ESC calibracion](esc_calibracion/README.md)
 	* [Radio Calibration](radio_calibration/README.md)
 	* [Calibrate accelerometer](calibrate_accelerometer/README.md)
 	* [Arming the motors](arming_the_motors/README.md)
