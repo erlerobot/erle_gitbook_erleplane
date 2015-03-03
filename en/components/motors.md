@@ -1,0 +1,7 @@
+# Motors
+
+![](https://erlerobotics.com/blog/wp-content/uploads/2014/10/IMG_6372.jpg)
+
+Brushless DC electric motor (BLDC motors, BL motors) also known as electronically commutated motors (ECMs, EC motors) are synchronous motors  powered by a DC electric source via an integrated inverter/switching power supply, which produces an AC electric signal to drive the motor. Additional sensors and electronics control the inverter output amplitude and waveform (and therefore percent of DC bus usage/efficiency) and frequency (i.e. rotor speed).
+
+Brushless motors offer several advantages over brushed DC motors (previous technology), including more torque per weight, more torque per watt (increased efficiency), increased reliability, reduced noise, longer lifetime (no brush and commutator erosion), elimination of ionizing sparks from the commutator, and overall reduction of electromagnetic interference (EMI). With no windings on the rotor, they are not subjected to centrifugal forces, and because the windings are supported by the housing, they can be cooled by conduction, requiring no airflow inside the motor for cooling. This in turn means that the motor’s internals can be entirely enclosed and protected from dirt or other foreign matter.
