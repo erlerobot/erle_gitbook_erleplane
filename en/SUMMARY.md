@@ -13,6 +13,7 @@
 		* [Dongles](components/dongles.md)
 		* [Telemetry](components/telemetry.md)
 	* [Assembly](variado/assembly.md)
+	* [Setup](variado/setup.md)
 * [Software](variado/software.md)
 * [Flight Modes](flight_modes/README.md)
 	* [Stabilize](flight_modes/stabilization.md)
