@@ -35,4 +35,4 @@
 		* [LiPo Batteries](safety/lipo.md)
 	* [Choosing a Ground Station](choosing_a_ground_station/README.md)
 	* [Radio Calibration](radio_calibration/README.md)
-	* [Calibrate accelerometer](calibrate_accelerometer/README.md)
+	<!--* [Calibrate accelerometer](calibrate_accelerometer/README.md) -->
