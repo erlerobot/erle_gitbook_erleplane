@@ -1,8 +1,5 @@
 # Radio Calibration
 
-http://copter.ardupilot.com/wiki/initial-setup/configuring-hardware/#Calibrate_radio_control
-
-
 Turn on transmitter. Verify that the transmitter is in vehicle and all trims are centered.
 
 ![radiocontroler](../img/calibration/radio_setup1.png)
@@ -22,3 +19,5 @@ Move the control sticks and toggle switches on your transmitter to their limits 
 - **Channel 4**: low = yaw left, high = yaw right.
 
 Check [Erle-Brain's book](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/apmplanner.html#radio-calibration) for more information.
+
+Check also [this link](http://plane.ardupilot.com/wiki/arduplane-setup/first-time-apm-setup/#calibrate_your_rc_input).
