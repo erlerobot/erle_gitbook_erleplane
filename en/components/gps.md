@@ -13,5 +13,3 @@ This GPS module can be purchased in the [Erle Robotics store](https://erleroboti
 -----
 
 We would recommend you to separate the GPS from the autopilot using a stick or something similar. Our experience in practical scenarios has shown that the GPS signal is way better when doing so.
-
-![](../img/variado/IMG_20150115_192954.jpg)
