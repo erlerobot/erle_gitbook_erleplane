@@ -14,6 +14,7 @@
 		* [Telemetry](components/telemetry.md)
 	* [Assembly](variado/assembly.md)
 	* [Setup](variado/setup.md)
+	* [PreFlight Checks](variado/checks.md)
 * [Software](variado/software.md)
 * [Flight Modes](flight_modes/README.md)
 	 * [Manual](flight_modes/manual.md)
