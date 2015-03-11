@@ -83,6 +83,8 @@ That means that `autopilot` have assigned the received channels as in a differen
 
 This means that the RC is sending the values wrongly. To fix this behaviour: in the RC, enter in `settings` -> `Reverse`. Reverse the channel you want.
 
+------
+
 ###Stabilize Mode Checks
 
 Once we are sure that [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) and the RC are properly configured, let's see if the autopilot corrects the state of the plane correctly.
@@ -92,18 +94,32 @@ Once we are sure that [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) and
 
 You should see that the `left aileron`moves up and the `right aileron`down. You also should see that the `rudder` moves to the left.
 
+![auto roll right](../img/checks/auto_roll_right.png)
+
+---
+
 + Roll [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) to the left
 
 You should see that the `left aileron`moves down and the `right aileron`up. You also should see that the `rudder` moves to the right.
+
+![auto roll left](../img/checks/auto_roll_left.png)
+![auto rudder right](../img/checks/auto_rudder_right.png)
+
+---
 
 + Put the nose of [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) looking to the floor.
 
 You should see that the `elevator`moves up.
 
+![auto relevator up](../img/checks/auto_elevator_up.png)
+
+----
 
 + Put the nose of [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) looking to the roof.
 
 You should see that the `elevator`moves down.
+
+![auto elevator down](../img/checks/auto_elevator_down.png)
 
 ###Troubleshooting
 
