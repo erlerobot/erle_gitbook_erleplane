@@ -1,6 +1,13 @@
 #PreFlight Checks
 
-Before flying [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) for the fist time, you have to be sure all is working as expected. In order to do so, follow the next steps:
+Before flying [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) for the fist time, you have to be sure all is working as expected. 
+
+---
+[This video](https://www.youtube.com/watch?v=gqvfsJAXNZE&feature=youtu.be), explains the proccess
+
+----
+
+In order to do so, follow the next steps:
 
 ###Manual Mode Checks
 
@@ -14,48 +21,62 @@ The `Manual Mode Checks` allows you to see that the RC Channels are setup proper
 With this verification we could see if the four channel are assigned properly to the `RC sticks` and are not reversed. Follow the next steps:
 
 + Power up Erle-Plane
-+ Connect to [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) and set it to `Manual Mode`.
++ Connect to [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) and set it into `Manual Mode`.
 + Trigger the throttle from the `RC`, as in the image below:
 
 ![Plane Throttle](../img/checks/th9x_throttle.jpeg)
+
+-----
 
 + Check the `Rudder` is working fine
 
 Turn the left stick to the right, you should see that the `rudder` flap turns also to the right
 
 ![Right rudder](../img/checks/th9x_rudder_right.jpeg)
+<div style="text-align:center"><img src ="../img/checks/rudder_right.jpg" /></div>
 
 And now turn the left stick to the left and check if `rudder` also moves to the left:
 
-![Right rudder](../img/checks/th9x_rudder_left.jpeg)
+![RC rudder](../img/checks/th9x _rudder_left.jpeg)
+<div style="text-align:center"><img src ="../img/checks/rudder_left.jpg" /></div>
+
+-----
 
 + Check that the `ailerons` are working fine
 
 Move the right stick of the RC to the right
 ![Right ailerons](../img/checks/th9x_ailerons_right.jpeg)
+<div style="text-align:center"><img src ="../img/checks/ailerons_right.jpg" /></div>
 You should see how the `left aileron` moves down and the `right aileron` up.
 
 Move the right stick of the RC to the left
 ![left ailerons](../img/checks/th9x_ailerons_left.jpeg)
+<div style="text-align:center"><img src ="../img/checks/ailerons_left.jpg" /></div>
 You should see how the `left aileron` moves up and the `right aileron` down.
+
+----
 
 + Check the `Elevator` is working fine
 
 Turn the right stick to the up, you should see that the `elevator` flap turns down
 
 ![up elevator](../img/checks/th9x_elevator_down.jpeg)
+<div style="text-align:center"><img src ="../img/checks/elevator_down.jpg" /></div>
 
 And now turn the right stick down and check if `elevator` moves up:
 
 ![up elevator](../img/checks/th9x_elevator_up.jpeg)
+<div style="text-align:center"><img src ="../img/checks/elevator_up.jpg" /></div>
+
+----
 
 ###Troubleshooting
 
-You might find that your [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) is not behaving us described above. So what to do??
+You might find that your [Erle-Plane](http://erlerobotics.com/blog/erle-plane/) is not behaving as described above. So, what to do??
 
-+ RC Sticks are not set in the same order as explaines above
++ RC Sticks are not set in the same order as explained above
 
-That means that the `autopilot` is now assigning the received channels as you would like. To fix this behaviour change `RC Map` parameters: change the channel number (1-4) where autopilot is receiving the rudder,yaw,pitch and roll. Save the changes.
+That means that `autopilot` have assigned the received channels as in a different order. To fix this behaviour change `RC Map` parameters: change the channel number (1-4) where autopilot is receiving the rudder,yaw,pitch and roll. Save the changes.
 
 
 + The movements are reversed
